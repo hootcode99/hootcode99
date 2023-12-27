@@ -22,7 +22,7 @@ I'm a recent Master's graduate from the Georgia Institute of Technology. I spent
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 
-
+#
 <details>
  <summary><h3>A little about me (TLDR) </h3></summary>
 
