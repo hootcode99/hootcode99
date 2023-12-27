@@ -24,7 +24,7 @@ I'm a recent Master's graduate from the Georgia Institute of Technology. I spent
 
 #
 <details>
- <summary><h3>A little about me (TLDR) </h3></summary>
+ <h3>A little about me (TLDR) </h3>
 
 I'm a competent, meticulous, and reliable developer looking to deliver value while advancing skills in software engineering and AI/ML. You'll find that I'm a fast, self-learner and strong communicator ready to succeed in collaborative or independent environments. I possess an extensive technical background honed by experience in both information technology & computer science, prepared to excel in any computing role.
 </details>
