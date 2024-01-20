@@ -1,6 +1,6 @@
 # Michael Williams
 
-**`Problem Solver`**
+**`Solving Problems with Data`**
 
 I'm a recent Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in AI/ML. 
 
