@@ -2,7 +2,7 @@
 
 **`Passionate about solving problems with data`**
 
-I'm a Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in AI/ML. 
+I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in AI/ML. 
 
 ---
 ## Tools I'm Familiar With 
