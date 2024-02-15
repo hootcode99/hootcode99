@@ -2,7 +2,7 @@
 
 **`Passionate about solving problems with data`**
 
-I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in AI/ML. 
+I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in data science & AI/ML. 
 
 ---
 ## Tools I'm Familiar With 
@@ -85,9 +85,8 @@ I'm a competent, meticulous, and reliable developer looking to deliver value whi
 
 ### A little more...
 
-I've been building, repairing, & simply having fun with computers and electronics since I was around 9 years old. Passion, fascination, & an aptitude for problem solving propelled me into the world of freelance IT where I served countless members of my community in a plethora of settings. In the IT space, I have worked on various projects for SME & individuals. Some of these projects include: building/repairing desktops/laptops, data recovery, batch technology deployment, network & VoIP configuration, data migration, security assessment, & more. 
+I've been building, repairing, & simply having fun with computers and electronics since I was around 9 years old. Passion, fascination, & an aptitude for problem solving propelled me into the world of freelance IT where I served countless members of my community in a plethora of settings. In the IT space, I have worked on many various projects for SME & individuals. 
 
 However, one reaches a point after many years in IT, where the surface level is no longer enough to satisfy a curious mind. I pursued my Bachelor's with the objective of pivoting away from IT and getting deeper into the fundamentals of computing, mathematics, & software. My studies gave me a firm foundation, valuable skills, and relevant perspective of the field. But they also revealed new avenues of interest which required furthering my education.
 
-Near the end of my Bachelor's degree, I found myself fascinated with data & machine learning. Therefore, I challenged myself to pursue a Master's degree specifically to develop & extend my competency in ML & Data Science. Consequently, I enter the job market with a strong preference & passion for such roles to become a well rounded data professional. However, I still possess a broad foundational knowledge base & do not fear learning. I am always open to advancing or expanding my skills in other computing niches.
-
+Near the end of my Bachelor's degree, I found myself fascinated with data science & machine learning. Therefore, I challenged myself to pursue a Master's degree specifically to develop & extend my competency in ML & Data Science. Consequently, I enter the job market with a strong preference & passion for such roles to become a well-rounded data professional. However, I still possess a broad foundational knowledge base & do not fear learning. I am always open to advancing or expanding my skills in other computing niches.
