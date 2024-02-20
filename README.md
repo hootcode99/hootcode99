@@ -69,7 +69,7 @@ I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my 
 <br />
 
 ### Data/Database
-<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://live.staticflickr.com/979/42099499622_eca95d19b4_w.jpg" />
 <img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGfLrroZHGo6xgWH4TssDW3lSrGQRSTCvThbvfpqCMSqZ5UgoLo-FkERbhPqif1nK70Y&usqp=CAU" />
 <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" />
 
