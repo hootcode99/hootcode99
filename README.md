@@ -79,12 +79,6 @@ I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my 
 <br />
 
 ## About Me 
- 
-### TLDR
-
-I'm a competent, meticulous, and reliable developer looking to deliver value while advancing skills in AI/ML engineering & data science. You'll find that I'm a fast self-learner and strong communicator ready to succeed in collaborative or independent environments. I possess an extensive technical background honed by experience in both information technology & computer science, prepared to excel in any computing role.
-
-### A little more...
 
 I've been building, repairing, & simply having fun with computers and electronics since I was around 9 years old. Passion, fascination, & an aptitude for problem solving propelled me into the world of freelance IT where I served countless members of my community in a plethora of settings. In the IT space, I have worked on many various projects for SME & individuals. 
 
