@@ -3,6 +3,10 @@
 **`Passionate about solving problems with data`**
 
 I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my time as a Ramblin' Wreck developing skills in data science & AI/ML. 
+<br />
+
+Many of my past projects were part of private school accounts with code that cannot be shared because of student integrity policies. 
+Since I've successfully completed my formal education, this account is the new home base for my personal projects. 
 
 ---
 ## Tools I'm Familiar With 
