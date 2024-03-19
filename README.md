@@ -6,9 +6,10 @@ I'm a CS Master's graduate from the Georgia Institute of Technology. I spent my 
 <br />
 
 Many of my past projects were part of private school accounts with code that cannot be shared because of student integrity policies. I've migrated and made public as many of the projects that I'm allowed to.
+Since I've successfully completed my formal education, this account is the new home base for my personal projects! 
 <br />
 
-Since I've successfully completed my formal education, this account is the new home base for my personal projects!
+I'm keeping up with my projects as I have time. I'm currently on job search and when many interviews come in all at once, I might sometimes find myself spending more time prepping than contributing here.
 
 ---
 ## Tools I'm Familiar With 
