@@ -7,7 +7,7 @@ Many of my past projects were part of private school accounts with code that can
 Since I've successfully completed my formal education, this account is the new home base for my personal projects! 
 <br />
 
-I'm keeping up with my projects as I have time. I'm currently on job search and when many interviews come in all at once, I might sometimes find myself spending more time prepping than contributing here.
+I'm keeping up with my projects as I have time. I'm currently at the stage in my job search where I have many interviews and technical challenges coming in at once. Therefore, I'm presently spending most of my tiwme practicing & prepping for those interviews than contributing here. When things cool down, there will be more green on the timeline :)
 
 ---
 ## Tools I'm Familiar With 
