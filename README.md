@@ -1,7 +1,5 @@
 # Michael Williams
 
-**`Passionate about solving problems with data`**
-
 I'm a CS Master's graduate from the Georgia Institute of Technology.
 <br />
 
